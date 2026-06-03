@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://kaluga-walk.ru/sitemap.xml
+Sitemap: https://sobefree.github.io/kaluga-walk/sitemap.xml
