@@ -257,7 +257,11 @@ body {
 
 /* Стили для кнопки группы в Telegram */
 .group-telegram-container {
-    margin-top: 20px; /* Отступ сверху для отделения от текста */
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .group-telegram {
